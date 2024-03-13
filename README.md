@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects involving my interests
 - 📫 How to reach me https://www.linkedin.com/in/gabrielleprabhu/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 
 <!---
 gabby-prabhu/gabby-prabhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
